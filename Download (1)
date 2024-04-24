@@ -1,0 +1,159 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2024.01
+2 _TREE UNKNOWN ANCESTRYYY 
+3 RIN 196767389
+3 NOTE nexttttttt
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 22 Apr 2024
+2 TIME 01:33:47
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I152563260793@ INDI
+1 NAME Larissa Ericka /Guzmam/
+2 GIVN Larissa Ericka
+2 SURN Guzmam
+1 SEX F
+1 SEX F
+1 SEX F
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 1996
+0 @I152563301432@ INDI
+1 NAME Mother  /Mary/
+2 GIVN Mother 
+2 SURN Mary
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 28 Apr 1971
+1 DEAT
+2 DATE 26 Aug 1996
+0 @I152569159060@ INDI
+1 NAME Larissa Ericka  /Guzmam/
+2 GIVN Larissa Ericka 
+2 SURN Guzmam
+1 SEX M
+1 FAMS @F1@
+0 @I152570403029@ INDI
+1 NAME Carmen Gisela /Abreu/
+2 GIVN Carmen Gisela
+2 SURN Abreu
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 BIRT
+2 DATE Mar 1975
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 RESI
+2 DATE 1998-2017
+2 PLAC Orlando, Florida, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 RESI
+2 DATE 2004-2016
+2 PLAC Kissimmee, Florida, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 RESI
+2 DATE 2010-2013
+2 PLAC Kissimmee, Florida, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 RESI
+2 DATE 2011-2020
+2 PLAC Kissimmee, Florida, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::483290
+1 SOUR @S363399504@
+2 _APID 1,62209::483290
+0 @I152570403061@ INDI
+1 NAME Carmen K /Chandler/
+2 GIVN Carmen K
+2 SURN Chandler
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 BIRT
+2 DATE May 1976
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 RESI
+2 DATE 2002-2003
+2 PLAC Matthews, North Carolina, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 RESI
+2 DATE 2003-2018
+2 PLAC Charlotte, North Carolina, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 RESI
+2 DATE 2007-2019
+2 PLAC Charlotte, North Carolina, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 RESI
+2 DATE 2018-2020
+2 PLAC Matthews, North Carolina, USA
+2 SOUR @S363399504@
+3 _APID 1,62209::325964613
+1 SOUR @S363399504@
+2 _APID 1,62209::325964613
+0 @I152570802220@ INDI
+1 NAME Wilbert Eduardo Mijahuanga /Quinto/
+2 GIVN Wilbert Eduardo Mijahuanga
+2 SURN Quinto
+2 SOUR @S363430963@
+3 PAGE Lima, Peru, Civil Registration, 1874-1996 Record
+3 _APID 1,60121::4276203
+1 SEX M
+2 SOUR @S363430963@
+3 PAGE Lima, Peru, Civil Registration, 1874-1996 Record
+3 _APID 1,60121::4276203
+1 BIRT
+2 DATE 19 oct. 1987 (19 Oct 1987)
+2 PLAC Lima, Lima, Lima, Peru
+2 SOUR @S363430963@
+3 PAGE Lima, Peru, Civil Registration, 1874-1996 Record
+3 _APID 1,60121::4276203
+1 SOUR @S363430963@
+2 PAGE Lima, Peru, Civil Registration, 1874-1996 Record
+2 _APID 1,60121::4276203
+0 @F1@ FAM
+1 HUSB @I152569159060@
+1 WIFE @I152563301432@
+1 CHIL @I152563260793@
+0 @S363399504@ SOUR
+1 TITL U.S., Index to Public Records, 1994-2019
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2020
+2 PLAC Lehi, UT, USA
+1 _APID 1,62209::0
+1 REPO @R255771897@
+1 NOTE &lt;i&gt;Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings&lt;/i&gt;.
+0 @S363430963@ SOUR
+1 TITL Lima, Peru, Civil Registration, 1874-1996
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,60121::0
+1 REPO @R255771897@
+1 NOTE Peru, Lima, Civil Registration, 1874-1996. Salt Lake City, Utah: FamilySearch, 2013.
+0 @R255771897@ REPO
+1 NAME Ancestry.com
+0 TRLR
